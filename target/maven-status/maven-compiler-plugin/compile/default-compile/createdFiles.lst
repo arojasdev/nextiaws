@@ -1,0 +1,8 @@
+mx\com\ar\nextia\dao\UsuarioDao.class
+mx\com\ar\nextia\domain\Usuario.class
+mx\com\ar\nextia\dao\UsuarioDaoImpl.class
+mx\com\ar\nextia\service\UsuarioServiceRemote.class
+mx\com\ar\nextia\service\UsuarioServiceWs.class
+mx\com\ar\nextia\service\UsuarioService.class
+mx\com\ar\nextia\service\UsuarioServiceImpl.class
+mx\com\ar\nextia\test\Test.class
